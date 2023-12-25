@@ -1,3 +1,10 @@
+
+## Intro to React
+
+This project is for an intro to React workshop. Why use Next? To deploy quickly. The default `create-next-app` generated message is just below
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
