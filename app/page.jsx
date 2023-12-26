@@ -1,7 +1,13 @@
+"use client"
+
 export default function Home() {
   return (
     <main style={{
-      padding: 100
+      padding: 100,
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      gap: 10
     }}>
       <img 
         src="/images/teddy.png" 
@@ -9,7 +15,7 @@ export default function Home() {
         style={{ width: 100 }} />
       <h1>Hello 👋</h1>
       <p>
-        We're so glad to have you here :)
+        We're so glad you're here :)
       </p>
     </main>
   )
