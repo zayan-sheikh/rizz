@@ -1,5 +1,7 @@
 "use client"
 
+import { calculate } from "@/utility/helpers" // I added this function beforehand
+
 export default function Home() {
   return (
     <main style={{
